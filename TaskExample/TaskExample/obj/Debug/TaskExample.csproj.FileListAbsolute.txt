@@ -1,0 +1,7 @@
+D:\Altasoft\C# Projects\TaskExample\TaskExample\obj\Debug\TaskExample.csprojResolveAssemblyReference.cache
+D:\Altasoft\C# Projects\TaskExample\TaskExample\obj\Debug\TaskExample.csproj.CoreCompileInputs.cache
+D:\Altasoft\C# Projects\TaskExample\TaskExample\bin\Debug\TaskExample.exe.config
+D:\Altasoft\C# Projects\TaskExample\TaskExample\bin\Debug\TaskExample.exe
+D:\Altasoft\C# Projects\TaskExample\TaskExample\bin\Debug\TaskExample.pdb
+D:\Altasoft\C# Projects\TaskExample\TaskExample\obj\Debug\TaskExample.exe
+D:\Altasoft\C# Projects\TaskExample\TaskExample\obj\Debug\TaskExample.pdb
